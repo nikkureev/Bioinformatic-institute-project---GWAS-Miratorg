@@ -32,5 +32,10 @@ Also PLINK used for linear regression
 For screen plot and Manhattan plot we used R script applied to this repository
 Links between SNPs and metabolic characteristics  were identify using Cattle QTL database
 
+### Usefull links:
 PLINK 1.9 - www.cog-genomics.org/plink/1.9/
 Cattle QTL db - www.animalgenome.org/
+
+Referenses:
+=====================
+1. Zhu, B., Niu, H., Zhang, W. et al. Genome wide association study and genomic prediction for fatty acid composition in Chinese Simmental beef cattle using high density SNP array. BMC Genomics 18, 464 (2017). https://doi.org/10.1186/s12864-017-3847-7
