@@ -3,6 +3,7 @@
 The main aim of the project is to identify genetic variants in Black Angus cows genome 
 related to economically important characteristics
 
+=====================
 The pursued objectives:
 
 - dataset quality control
