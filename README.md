@@ -14,7 +14,7 @@ The pursued objectives:
 
 For GWAS we used PLINK version 1.9
 It allows to filter and preparing your data
-Characteristics we used for filtering:
+### Characteristics we used for filtering:
 
 - minor allele frequency 
 - proportion of missing genotypes
