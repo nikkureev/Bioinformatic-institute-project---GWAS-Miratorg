@@ -22,11 +22,11 @@ It allows to filter and preparing your data
 - proportion of individuals with missing genotypes
 - filtering according linkage disequilibrium 
 
-Script for filtering:
+### Script for filtering:
 ./plink --file marble_df --maf 0.05 --geno 0.05 --hwe 1e-6 --mind 0.1 --indep 50 5 2 --cow 
 
 Also PLINK used for linear regression
-Script for linear regression:
+### Script for linear regression:
 ./plink --covar-number 1-5 --file new_marble --gplink --linear --cow --covar new_plink.eigenvec 
 
 For screen plot and Manhattan plot we used R script applied to this repository
